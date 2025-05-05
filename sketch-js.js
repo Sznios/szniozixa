@@ -13,7 +13,7 @@ let circlePoints = 80; // Liczba punktów w kole
 // Parametry animacji
 let rotationSpeed = 0.004; // Prędkość rotacji
 let sinusAmplitude = 85; // Amplituda sinusa
-let sinusFrequency = 0.1; // Częstotliwość sinusa
+let sinusFrequency = 0.05; // Częstotliwość sinusa
 let sinusSpeed = 0.33; // Prędkość animacji sinusa
 
 // Współczynnik skalowania całości 
